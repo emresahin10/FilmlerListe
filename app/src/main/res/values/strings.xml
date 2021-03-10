@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FilmlerListe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="errorMessage">Hata ! Tekrar Deneyiniz.</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="category">Category</string>
+    <string name="def_imdb">İMDB</string>
+    <string name="def_category">TÜR</string>
+    <string name="def_time">SÜRE</string>
+    <string name="def_name">İSİM</string>
+    <string name="def_subject">KONU</string>
+</resources>
